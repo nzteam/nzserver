@@ -26,3 +26,4 @@ set(CMAKE_CXX_FLAGS_RELEASE "-std=c++11 -pthread -O3")
 add_subdirectory(nzlib)
 
 add_subdirectory(nzcs)
+add_subdirectory(nzgs)
